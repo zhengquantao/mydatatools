@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mydatatools
+Version: 0.1
+Author: zhengquantao80
+Author-email: zhengquantao80@gmail.com
+Requires-Dist: pandas==2.2.2
+Requires-Dist: SQLAlchemy==2.0.34
+Requires-Dist: PyMySQL==1.1.1
+Requires-Dist: paramiko==3.4.1
+Requires-Dist: loguru==0.7.2
+
+
+mydatatools包打包脚本

@@ -1,0 +1,12 @@
+README.md
+setup.py
+mydatatools/AlgoBaseModelScada.py
+mydatatools/MyDataTools.py
+mydatatools/__init__.py
+mydatatools/read_config.py
+mydatatools.egg-info/PKG-INFO
+mydatatools.egg-info/SOURCES.txt
+mydatatools.egg-info/dependency_links.txt
+mydatatools.egg-info/not-zip-safe
+mydatatools.egg-info/requires.txt
+mydatatools.egg-info/top_level.txt
