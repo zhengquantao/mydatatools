@@ -6,7 +6,7 @@
 
 #### 打包流程
 ```bash
-python setup.py sdist --format=gztar
+python setup.py sdist bdist_wheel
 ```
 *注：打包生成的包存放在dist文件夹中*
 
@@ -16,7 +16,7 @@ python setup.py sdist --format=gztar
 python -m pip install mydatatools.tar.gz
 
 # 指定镜像安装
-python -m pip install mydatatools.tar.gz -i https://pypi.douban.com/simple
+python -m pip install mydatatools -i https://pypi.douban.com/simple
 ```
 
 #### 使用方式
