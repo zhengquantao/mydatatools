@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 if __name__ == '__main__':
     setup(
         name='mydatatools',
-        version='0.5',
+        version='0.6',
         author='zhengquantao80',
         author_email='zhengquantao80@gmail.com',
         long_description=__doc__,

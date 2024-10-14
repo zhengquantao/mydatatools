@@ -16,7 +16,7 @@ python setup.py sdist bdist_wheel
 python -m pip install mydatatools.tar.gz
 
 # 指定镜像安装
-python -m pip install mydatatools -i https://pypi.douban.com/simple
+python -m pip install mydatatools -i https://pypi.doubanio.com/simple
 ```
 
 #### 使用方式
