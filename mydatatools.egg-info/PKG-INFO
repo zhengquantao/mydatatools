@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mydatatools
-Version: 0.1
+Version: 0.5
 Author: zhengquantao80
 Author-email: zhengquantao80@gmail.com
 Requires-Dist: pandas==2.2.2
